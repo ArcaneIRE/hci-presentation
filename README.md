@@ -8,13 +8,13 @@ This project involves researching and analysing a website or app which provides 
 
 ### 1. Research and Analysis
 
-- [ ] Choose a product that provides a poor user experience
-- [ ] Gather data about the users of this product (or potential users not currently catered for)
-  - [ ] Create consent form
-  - [ ] Plan the handling of any personal information
+- [x] Choose a product that provides a poor user experience
+- [x] Gather data about the users of this product (or potential users not currently catered for)
+  - [x] Create consent form
+  - [x] Plan the handling of any personal information
   - [ ] Use desk research to assist planning the user research
-  - [ ] Create a form or script as needed
-  - [ ] Conduct the user research (during lab time)
+  - [x] Create a form or script as needed
+  - [x] Conduct the user research (during lab time)
 - [ ] Develop at least one persona. Their characterisation must be justified by the user research
 - [ ] Create an empathy map based on the create persona(s)
 - [ ] Identify and define the problem/issue with the product's design
